@@ -1,9 +1,9 @@
-baseURL = "https://wonderful-hopper-4c889b.netlify.app/"
+baseURL = "https://rogers.netlify.app/"
 languageCode = "en-us"
 title = "Roger's Blog"
 theme = "noteworthy"
 
 [params]
 description = "Noteworthy is a minimalist Hugo theme, perfect for writers and bloggers."
-email = "g.pichok@gmail.com"
+email = "email:g.pichok@gmail.com"
 twitter = "https://twitter.com/martins4224"

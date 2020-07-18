@@ -3,87 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/posts/my-first-post/</loc>
-    <lastmod>2020-07-17T16:04:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/posts/</loc>
-    <lastmod>2020-07-17T16:04:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/</loc>
-    <lastmod>2020-07-17T16:04:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/css/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/html/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/markdown/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/posts/markdown-syntax/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/themes/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/privacy/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/posts/rich-content/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/shortcodes/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/posts/placeholder-text/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/text/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wonderful-hopper-4c889b.netlify.app/posts/math-typesetting/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wonderful-hopper-4c889b.netlify.app/tags/emoji/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wonderful-hopper-4c889b.netlify.app/posts/emoji-support/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonderful-hopper-4c889b.netlify.app/posts/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonderful-hopper-4c889b.netlify.app/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonderful-hopper-4c889b.netlify.app/tags/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   

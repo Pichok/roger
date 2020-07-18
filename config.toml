@@ -5,5 +5,4 @@ theme = "noteworthy"
 
 [params]
 description = "Noteworthy is a minimalist Hugo theme, perfect for writers and bloggers."
-email = "email:g.pichok@gmail.com"
 twitter = "https://twitter.com/martins4224"

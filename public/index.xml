@@ -1,7 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Roger's Blog</title><link>https://rogers.netlify.app/</link><description>Recent content on Roger's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rogers.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Emoji Suporte</title><link>https://rogers.netlify.app/posts/emoji-support/</link><pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate><guid>https://rogers.netlify.app/posts/emoji-support/</guid><description>Emoji can be enabled in a Hugo project in a number of ways.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger&#39;s Blog</title>
+    <link>https://rogers.netlify.app/</link>
+    <description>Recent content on Roger&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogers.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emoji Suporte</title>
+      <link>https://rogers.netlify.app/posts/emoji-support/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogers.netlify.app/posts/emoji-support/</guid>
+      <description>Emoji can be enabled in a Hugo project in a number of ways.
 The emojify function can be called directly in templates or Inline Shortcodes.
 To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
 The Emoji cheat sheet is a useful reference for emoji shorthand codes.
-N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description></item><item><title/><link>https://rogers.netlify.app/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://rogers.netlify.app/archives/</guid><description/></item><item><title>About</title><link>https://rogers.netlify.app/about/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://rogers.netlify.app/about/</guid><description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+ N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rogers.netlify.app/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogers.netlify.app/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rogers.netlify.app/about/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogers.netlify.app/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
-Blackfriday Chroma Smartcrop Cobra Viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description></item></channel></rss>
+ Blackfriday Chroma Smartcrop Cobra Viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
+    </item>
+    
+  </channel>
+</rss>
